@@ -9,6 +9,8 @@ The Price Cache Dashboard is a full-stack application designed to demonstrate ul
 can be accessed via: https://price-cache.sbs/
 (the api call could be sleeping and therefore using fallback data)
 
+[images/Bechmark.png]
+
 **Key Features:**
 - ⚡ **Sub-microsecond latency** - Cached responses in 1-10µs
 - 📊 **Real-time price chart** - Multi-stock visualization with live updates
