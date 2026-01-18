@@ -6,6 +6,9 @@ A high-performance real-time stock price monitoring dashboard with sub-microseco
 
 The Price Cache Dashboard is a full-stack application designed to demonstrate ultra-low latency caching patterns for real-time financial data. It fetches live stock prices and caches them with intelligent refresh strategies, delivering sub-microsecond response times while maintaining data freshness.
 
+can be accessed via: https://price-cache.sbs/
+(the api call could be sleeping and therefore using fallback data)
+
 **Key Features:**
 - ⚡ **Sub-microsecond latency** - Cached responses in 1-10µs
 - 📊 **Real-time price chart** - Multi-stock visualization with live updates
